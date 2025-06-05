@@ -49,7 +49,7 @@ Each game prediction script:
 
 | Game | Thunder Win % | Pacers Win % | Predicted Winner | Actual Outcome | Prediction Accuracy |
 |------|----------------|----------------|------------------|----------------|---------------------|
-| 1    | TBD            | TBD            | TBD              | TBD            | —                   |
+| 1    | 50.77%         | 49.21%         | Thunder          | TBD            | —                   |
 | 2    | TBD            | TBD            | TBD              | TBD            | —                   |
 | 3    | TBD            | TBD            | TBD              | TBD            | —                   |
 | 4    | TBD            | TBD            | TBD              | TBD            | —                   |
